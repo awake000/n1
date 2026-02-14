@@ -11,7 +11,7 @@ install-32.sh 设置系统空间为32g(实际没有，系统内置占用2g旁边
 # 在按照教程（自行查找）从u盘启动飞牛系统后。不要输入（bash install-to-emmc.sh ）,使用下面脚本
 # (默认)不修改系统空间
 
-curl -o install.sh https://raw.githubusercontent.com/awake000/n1/main/install-.sh
+curl -o install.sh https://raw.githubusercontent.com/awake000/n1/main/install.sh
 
 chomd +x install.sh
 
